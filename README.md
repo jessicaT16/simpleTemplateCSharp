@@ -1,41 +1,33 @@
 ![.NET5](https://github.com/ET12DE1Computacion/template/workflows/.NET5/badge.svg?branch=main)
 
+# Escuela Tecnica Nº12 D.E. 1º "Libertador Gral. José de San Martín"
+![Logo Secu](https://et12.edu.ar/imgs/et12.png)
+
+## Computación 2021
+
+**Asignatura**: <!-- REEMPLAZA este comentario por el nombre de la asignatura -->
+
+**Nombre TP**: <!-- REEMPLAZA este comentario por el nombre del TP -->
+
+**Apellido y nombre Alumno**: <!-- REEMPLAZA este comentario por tu apellido y nombre -->
+
+**Curso**: <!-- REEMPLAZA este comentario por tu curso -->
+
 # Título del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Acá va un párrafo que describa lo que es el proyecto._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Despliegue** para conocer como desplegar el proyecto.
-
+Clonar el repositorio github, desde Github Desktop o ejecutar en la terminal o CMD:
+<!-- cambia el link de abajo al de tu repositorio y BORRA ESTE COMENTARIO -->
+```
+git clone https://github.com/ET12DE1Computacion/simpleTemplateCSharp
+```
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+- .NET 5.0.7 (SDK .NET 5.0.301) [Descargar](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 ## Despliegue 📦
 
@@ -45,17 +37,11 @@ _Agrega notas adicionales sobre que cosas se debe instalar, configurar y como ha
 
 _Menciona las herramientas y versiones que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+* [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) - Editor de código.
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tuUser/tuRepo/tags).
 
 ## Autores ✒️
 
@@ -66,4 +52,4 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
