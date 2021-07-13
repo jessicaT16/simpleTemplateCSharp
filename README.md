@@ -1,7 +1,8 @@
 ![.NET5](https://github.com/ET12DE1Computacion/template/workflows/.NET5/badge.svg?branch=main)
-
-# Escuela Tecnica Nº12 D.E. 1º "Libertador Gral. José de San Martín"
-![Logo Secu](https://et12.edu.ar/imgs/et12.png)
+<h1 align="center">E.T. Nº12 D.E. 1º "Libertador Gral. José de San Martín"</h1>
+<p align="center">
+  <img src="https://et12.edu.ar/imgs/et12.png">
+</p>
 
 ## Computación 2021
 
