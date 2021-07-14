@@ -1,4 +1,5 @@
-![.NET5](https://github.com/ET12DE1Computacion/template/workflows/.NET5/badge.svg?branch=main)
+![.NET5](https://github.com/ET12DE1Computacion/simpleTemplateCSharp/workflows/.NET5/badge.svg?branch=main)
+[![Abrir en Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/ET12DE1Computacion/simpleTemplateCSharp)
 <h1 align="center">E.T. Nº12 D.E. 1º "Libertador Gral. José de San Martín"</h1>
 <p align="center">
   <img src="https://et12.edu.ar/imgs/et12.png">
