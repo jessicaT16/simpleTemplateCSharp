@@ -1,10 +1,12 @@
-name: .NET5
+name: main-build.NET5
 
 on:
   push:
-    branches: [ main, dev ]
+    branches:
+      - main
   pull_request:
-    branches: [ main, dev ]
+    branches:
+      - main
 
 jobs:
   build:
@@ -19,7 +21,7 @@ jobs:
         dotnet-version: 5.0.301
     - name: Install dependencies
       run: dotnet restore
+      working-directory: src/
     - name: Build
       run: dotnet build --configuration Release --no-restore
-    - name: Test
-      run: dotnet test --no-restore --verbosity normal
+      working-directory: src/
