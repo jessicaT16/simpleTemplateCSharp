@@ -47,7 +47,7 @@ _Menciona las herramientas y versiones que utilizaste para crear tu proyecto_
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tuUser/tuRepo/tags).
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/ET12DE1Computacion/simpleTemplateCSharp/tags).
 
 ## Autores ✒️
 
